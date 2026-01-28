@@ -8,7 +8,7 @@ Qisi-SQL is an enterprise-grade Text-to-SQL system designed to convert natural l
 
 ## Evaluation
 
-🎉 Qisi-SQL achieves **7th place** on the competitive benchmark **Spider2-snow**, which consists of diverse and challenging cross-domain text-to-SQL tasks. Detailed evaluation results and analysis are available in the `evaluation/` directory.
+🎉 Qisi-SQL achieves **7th place**(Dec 26, 2025) on the competitive benchmark [Spider2-snow](https://spider2-sql.github.io/), which consists of diverse and challenging cross-domain text-to-SQL tasks. Detailed evaluation results and analysis are available in the `evaluation/` directory.
 ![QiSi-SQL](./qisi-sql.png)
 
 ## Key Features
